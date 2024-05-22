@@ -13,5 +13,15 @@
 윈도우의 작업관리자랑 비슷하다.
 
 ##### 사용법
+      top
 ![image](https://github.com/choonssik/OS_20223180/assets/166361178/ec61d844-5b36-40a6-bbb1-f0686cc7d654)
+
+* TOP 정보 시스템 내용<br>
+07:18:34 : 현재 서버의 시간<br>
+up 5 min : uptime(켜져있는시간)<br>
+0 users : 총 사용자 수<br>
+load average : 현재 시스템이 얼마나 일을 하고 있는지 1분, 5분, 15분 단위 동안의 실행/대기 중인 프로세스 수를 나타내는 평균 시스템 부하량 평균값<br>
+Tasks : 현재 프로세스들의 상태를 출력<br>
+프로세스 개수와 running, sleep, stopped, zombie 상태를 나타낸다.<br>
+
 
